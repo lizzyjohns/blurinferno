@@ -1,0 +1,14 @@
+{
+  "originalUrl": "https://blur.io/airdrop#3",
+  "title": "blur.io",
+  "archiveTime": "2024-08-14T22:15:48.211Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.otf": "https://blur.io/fonts/ProtoMono/ProtoMono-Light.otf",
+    "fonts/1.otf": "https://blur.io/fonts/ProtoMono/ProtoMono-Regular.otf",
+    "fonts/2.otf": "https://blur.io/fonts/ProtoMono/ProtoMono-Bold.otf",
+    "images/4.png": "https://blur.io/favicons/48.png",
+    "images/7.png": "https://blur.io/logo.png",
+    "images/8.webp": "https://blur.io/_next/image?url=%2Flogo.png&w=256&q=75"
+  }
+}
